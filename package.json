@@ -1,0 +1,23 @@
+{
+  "name": "discourse-token-server",
+  "version": "1.0.0",
+  "description": "A token generator server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GedeonTS/discourse-token-server.git"
+  },
+  "author": "Ushindi Gedeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GedeonTS/discourse-token-server/issues"
+  },
+  "homepage": "https://github.com/GedeonTS/discourse-token-server#readme",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "express": "^4.18.2"
+  }
+}
