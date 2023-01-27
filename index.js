@@ -7,8 +7,8 @@ const PORT = 3000;
 // const APP_ID = process.env.APP_ID;
 // const APP_CERTIFICATE = process.env.APP_CERTIFICATE;
 
-const APP_ID='822488d93b924e8dbcf45dd5b3950d9f'
-const APP_CERTIFICATE='002f4e252edc42ebb267d13a9a4e13fc'
+const APP_ID='99ee7677a8a745ed94b7f7f03fdab53e'
+const APP_CERTIFICATE='ed1f2b23520a44a7ba1b924243e42e4f'
 
 
 
